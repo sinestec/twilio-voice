@@ -1,9 +1,9 @@
 # twilio-voice Sinestec
 
 - Este script tem como função disparar um evento por voz para um determinado número de telefone;
-- Para executar o script énecessário criar uma conta no twilio;
+- Para executar o script é necessário criar um conta no twilio;
 
-	*Visite
+	*Visite:
 	https://twilio.com
 
 
