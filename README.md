@@ -4,7 +4,7 @@
 - Para executar o script é necessário criar um conta no twilio;
 
 	*Visite:
-	https://twilio.com
+	- https://twilio.com
 
 
 Para executar o script, basta informar os dados:
